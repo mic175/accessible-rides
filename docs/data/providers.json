@@ -1,0 +1,24 @@
+[
+  {
+    "name": "ACCESS Transportation Systems",
+    "phone": "+14125625353",
+    "website": "https://myaccessride.com",
+    "address": "650 Smithfield St #440, Pittsburgh, PA 15222",
+    "features": ["van_lift", "tie_downs", "seat_belts"],
+    "open_hours": "Mon–Fri 8:00–16:30",
+    "open_now": false,
+    "advance_notice": "24h",
+    "notes": "Paratransit; call for eligibility"
+  },
+  {
+    "name": "Sample Mobility Rides (demo)",
+    "phone": "+14120000000",
+    "website": "",
+    "address": "Downtown Pittsburgh",
+    "features": ["van_lift", "tie_downs"],
+    "open_hours": "Daily 7:00–22:00",
+    "open_now": true,
+    "advance_notice": "Same-day",
+    "notes": "Demo entry for testing"
+  }
+]
