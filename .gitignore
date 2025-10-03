@@ -1,2 +1,6 @@
 .DS_Store
 .vscode/
+app/node_modules/
+app/.expo/
+mobile/node_modules/
+mobile/.expo/
